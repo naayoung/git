@@ -1,4 +1,4 @@
-<<<<<<< HEAD
 hello
 greet
 hi
+Hello world
