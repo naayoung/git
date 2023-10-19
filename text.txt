@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 hello
+greet
 hi
